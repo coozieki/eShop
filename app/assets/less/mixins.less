@@ -1,0 +1,23 @@
+// main: style.less
+
+.posCenter() {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: @center;
+}
+
+.hover(@property, @color) {
+    cursor: pointer;
+    transition: @property  @anim;
+
+    &:hover {
+        @{property}: @color;
+    }
+}
+
+.circle(@d) {
+    width: @d;
+    height: @d;
+    border-radius: @d/2;
+}

@@ -1,0 +1,2741 @@
+07:28:25 SQL query: "SELECT users.* FROM users", Result: 1
+
+07:29:22 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:29:23 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:29:23 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:29:23 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:29:24 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:29:24 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:29:37 Load url: "logout", Controller: "app/controller/LogoutController.php", with parameters : ""
+
+
+
+07:29:38 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:29:38 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:29:38 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:29:38 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:29:39 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:29:39 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:29:40 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:29:40 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:29:40 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:29:40 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:29:40 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:29:40 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:30:40 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+07:30:41 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:30:44 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+07:30:44 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:31:25 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:31:26 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:31:26 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:31:26 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:31:26 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:31:26 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:31:40 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:31:40 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:31:40 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:31:40 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:31:41 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:31:41 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:32:15 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:32:16 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:32:16 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:32:16 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:32:16 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:32:16 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:32:43 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:32:44 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:32:44 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:32:44 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:32:44 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:32:44 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:34:16 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:34:16 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:34:16 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:34:16 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:34:16 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:34:16 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:34:20 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:34:20 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:34:20 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:34:20 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:34:20 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:34:20 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:34:30 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:34:30 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:34:30 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:34:30 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:34:30 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:34:30 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:35:01 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:35:02 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:35:02 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:35:02 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:35:02 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:35:02 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:36:01 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:36:02 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:36:02 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:36:02 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:36:02 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:36:02 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:36:21 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:36:22 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:36:22 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:36:22 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:36:22 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:36:22 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:55:46 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:55:47 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:55:47 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+07:55:47 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:55:47 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+07:55:47 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+07:57:24 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:57:25 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:57:25 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:57:27 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:57:28 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:57:28 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:58:38 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:58:39 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:58:39 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:59:39 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:59:40 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+07:59:40 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:59:55 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+07:59:56 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+07:59:56 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+08:00:42 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+08:00:43 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+08:00:43 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+08:00:58 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+08:00:59 Load url: "load_shop_home_items", Controller: "app/controller/LoadItemsController.php", with parameters : ""
+
+08:00:59 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+08:01:44 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+08:01:45 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+08:01:49 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+08:01:50 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+08:02:14 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+08:02:15 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+08:02:23 Load url: "product_view", Controller: "app/controller/ProductViewController.php", with parameters : "?id=1"
+
+08:02:39 Load url: "product_view", Controller: "app/controller/ProductViewController.php", with parameters : "?id=1"
+
+08:04:23 Load url: "product_view", Controller: "app/controller/ProductViewController.php", with parameters : "?id=1"
+
+08:05:10 Load url: "product_view", Controller: "app/controller/ProductViewController.php", with parameters : "?id=1"
+
+08:05:11 Load url: "load_menu", Controller: "app/controller/LoadMenuController.php", with parameters : ""
+
+08:05:13 Load url: "product_view", Controller: "app/controller/ProductViewController.php", with parameters : "?id=1"
+
+08:06:00 Load url: "product_view", Controller: "app/controller/ProductViewController.php", with parameters : "?id=1"
+
+08:07:34 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:08:54 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:10:14 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:10:24 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:10:25 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:10:34 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:12:31 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:17:31 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:20:04 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:20:46 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:21:25 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:26:26 Load url: "", Controller: "app/views/user/index.view.php", with parameters : ""
+
+08:27:04 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:28:22 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:29:09 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:29:47 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+08:29:59 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+08:29:59 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+08:29:59 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+08:29:59 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+08:38:47 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:38:47 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+08:38:47 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+08:38:48 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+08:38:48 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+08:38:48 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+08:38:48 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:38:48 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+08:38:48 SQL query: "SELECT menus.* FROM menus", Result: 1
+
+08:38:48 SQL query: "SELECT submenus.* FROM submenus", Result: 1
+
+08:38:48 SQL query: "SELECT menu_links.* FROM menu_links", Result: 1
+
+
+
+08:39:50 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:39:54 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+08:39:54 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+08:39:54 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+08:39:54 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+08:39:54 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+08:40:36 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:40:45 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+08:40:45 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+08:40:45 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+08:40:45 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+08:40:45 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+08:48:43 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:48:43 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+08:48:43 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+08:48:43 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+08:48:43 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+08:48:43 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+08:48:44 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:48:44 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+08:49:06 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:49:06 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+08:49:06 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+08:49:06 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+08:49:06 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+08:49:06 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+08:49:06 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:49:06 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+08:50:40 Load url: "home", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+08:50:42 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:50:42 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+08:50:50 Load url: "home", Controller: "app/views/user/index.view.php", with parameters : ""
+
+
+
+08:50:52 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:50:52 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+08:51:30 Load url: "home", Controller: "app/views/user/index.view.php", with parameters : ""
+
+08:52:31 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+
+
+08:52:32 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:52:32 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+08:52:32 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+08:52:32 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+08:52:32 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+08:54:59 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+
+
+08:54:59 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+08:54:59 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+08:54:59 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+08:54:59 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:54:59 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+08:57:12 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+
+
+08:57:12 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+08:57:12 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+08:57:12 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+08:57:12 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:57:12 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+08:59:35 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+08:59:35 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+08:59:35 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+08:59:35 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+08:59:35 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+08:59:35 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+08:59:36 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:59:36 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+08:59:39 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+08:59:40 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+08:59:40 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+08:59:44 Load url: "dosingin", Controller: "LoginController", with parameters : ""
+
+08:59:44 SQL query: "SELECT users.* FROM users WHERE (users.login = 'vadim19755@mail.ru')", Result: 
+
+09:01:02 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+09:01:02 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:01:02 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:01:06 Load url: "dosingin", Controller: "LoginController", with parameters : ""
+
+09:01:06 SQL query: "SELECT users.* FROM users WHERE (users.login = 'vadim19755@mail.ru')", Result: 
+
+
+
+09:01:12 Load url: "dosingin", Controller: "LoginController", with parameters : ""
+
+09:01:12 SQL query: "SELECT users.* FROM users WHERE (users.login = 'VadimVO')", Result: 1
+
+09:01:12 SQL query: "UPDATE users SET cookie='DuI@Z>LQ' WHERE login='VadimVO'", Result: 1
+
+
+
+09:01:17 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:01:18 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:01:18 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:01:18 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:01:18 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:01:18 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:01:18 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:01:18 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:01:41 Load url: "add_review", Controller: "ProductViewController#addReview", with parameters : ""
+
+09:02:23 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:02:23 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:02:23 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:02:23 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:02:23 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:02:23 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:02:24 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:02:24 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:02:27 Load url: "rev_page", Controller: "RevPageController", with parameters : ""
+
+09:02:27 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+09:02:29 Load url: "rev_page", Controller: "RevPageController", with parameters : ""
+
+09:02:29 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+09:02:41 Load url: "add_review", Controller: "ProductViewController#addReview", with parameters : ""
+
+09:03:33 Load url: "add_review", Controller: "ProductViewController#addReview", with parameters : ""
+
+09:03:38 SQL query: "SELECT users.* FROM users WHERE (users.login = 'VadimVO')", Result: 1
+
+09:03:39 SQL query: "INSERT INTO reviews (rating, text, item, date, user_id) 
+                VALUES ('3', '12345', '1', '2020-11-29', '10')", Result: 1
+
+
+
+09:03:50 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:03:50 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:03:50 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:03:50 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:03:50 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:03:50 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:03:51 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:03:51 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:03:54 Load url: "rev_page", Controller: "RevPageController", with parameters : ""
+
+09:03:54 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+09:05:08 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:05:09 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:05:09 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:05:09 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:05:09 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:05:09 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:05:09 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:05:09 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:05:11 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+09:05:11 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:05:13 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+09:05:13 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:05:13 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+09:05:13 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:05:15 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+09:05:15 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:12:18 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:12:19 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:12:19 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:12:19 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:12:19 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:12:19 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:12:19 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:12:19 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:12:22 Load url: "logout", Controller: "LogoutController", with parameters : ""
+
+09:12:22 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:12:22 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:12:22 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:12:22 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:12:22 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:12:22 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:12:23 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:12:23 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:13:16 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:13:16 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:13:16 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:13:16 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:13:16 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:13:16 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:13:17 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:13:17 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:13:18 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+09:13:19 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:13:19 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:13:23 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+09:13:23 SQL query: "SELECT users.* FROM users WHERE (users.login = 'VadimVO')", Result: 1
+
+09:13:23 SQL query: "UPDATE users SET cookie='8\w6%}?2' WHERE login='VadimVO'", Result: 1
+
+
+
+09:13:29 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:13:29 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:13:29 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:13:29 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:13:29 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:13:29 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:13:29 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:13:29 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:13:31 Load url: "logout", Controller: "AuthController#logout", with parameters : ""
+
+
+
+09:13:32 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:13:32 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:13:32 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:13:32 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:13:32 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:13:32 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:13:32 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:13:32 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:13:34 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+09:13:34 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:13:34 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:13:40 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+09:13:40 SQL query: "SELECT users.* FROM users WHERE (users.login = 'VadimVO')", Result: 1
+
+09:13:40 SQL query: "UPDATE users SET cookie='XtsQWyeH' WHERE login='VadimVO'", Result: 1
+
+
+
+09:13:46 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:13:46 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:13:46 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:13:46 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:13:46 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:13:46 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:13:46 Load url: "load_menu", Controller: "LoadMenuController", with parameters : ""
+
+09:13:46 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:16:49 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:16:49 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:16:49 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:16:49 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:16:49 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:16:50 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:16:50 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:16:50 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:16:58 Load url: "search", Controller: "HeaderController#search", with parameters : ""
+
+09:16:58 SQL query: "SELECT items.* FROM items WHERE (items.search_tags LIKE '%w%' OR items.name LIKE '%w%')", Result: 1
+
+
+
+09:54:51 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:54:51 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:54:51 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:54:51 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:54:51 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:54:51 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:54:52 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:54:52 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:54:54 Load url: "logout", Controller: "AuthController#logout", with parameters : ""
+
+
+
+09:54:54 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:54:54 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:54:54 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:54:54 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:54:54 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:54:54 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:54:55 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:54:55 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:54:57 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+09:54:57 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:54:57 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:55:04 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+09:55:04 SQL query: "SELECT users.* FROM users WHERE (users.login = 'VadimVO')", Result: 1
+
+09:55:04 SQL query: "UPDATE users SET cookie='pDM\!]97' WHERE login='VadimVO'", Result: 1
+
+
+
+09:55:09 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:55:09 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:55:09 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:55:09 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:55:09 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:55:10 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:55:10 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:55:10 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:55:12 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:55:12 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:55:12 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:55:12 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:55:12 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:55:12 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:55:13 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:55:13 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:55:16 Load url: "logout", Controller: "AuthController#logout", with parameters : ""
+
+
+
+09:55:17 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+09:55:17 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+09:55:17 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+09:55:17 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+09:55:17 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+09:55:17 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+09:55:17 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:55:17 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:55:19 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+09:55:19 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:55:19 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:56:45 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+09:56:46 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:56:46 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:58:06 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+09:58:07 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+09:58:07 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+09:58:17 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+09:58:20 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+09:58:22 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+09:58:25 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+10:05:46 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:05:46 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:05:46 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:06:00 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+10:06:37 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:06:38 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:06:38 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:06:42 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+10:06:42 SQL query: "SELECT users.* FROM users WHERE (users.login = 'VadimVO')", Result: 1
+
+10:06:42 SQL query: "UPDATE users SET cookie='zD5AVcdX' WHERE login='VadimVO'", Result: 1
+
+
+
+10:06:48 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:06:48 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:06:48 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:06:48 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:06:48 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:06:48 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+10:06:49 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:06:49 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:06:55 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:06:55 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:06:55 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:06:55 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:06:55 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:06:55 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+10:06:56 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:06:56 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:06:59 Load url: "logout", Controller: "AuthController#logout", with parameters : ""
+
+
+
+10:06:59 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:06:59 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:06:59 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:06:59 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:06:59 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:06:59 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+10:07:00 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:07:00 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:07:03 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:07:03 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:07:03 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:07:13 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+10:08:07 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+10:08:10 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:08:10 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:08:10 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:08:19 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+10:09:24 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:09:24 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:09:24 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:09:28 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+10:09:28 SQL query: "SELECT users.* FROM users WHERE (users.login = 'VadimVO')", Result: 1
+
+10:09:28 SQL query: "UPDATE users SET cookie='BcA'y5./' WHERE login='VadimVO'", Result: 
+
+
+
+10:09:34 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:09:34 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:09:34 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:09:34 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:09:34 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:09:34 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+10:09:35 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:09:35 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:09:47 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:09:47 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+
+
+10:09:48 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:09:48 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:09:48 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:09:48 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:09:48 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+10:09:56 Load url: "dosignin", Controller: "", with parameters : ""
+
+
+
+10:10:48 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+
+
+10:10:49 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:10:49 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:10:49 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+10:10:49 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:10:49 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:10:52 Load url: "logout", Controller: "AuthController#logout", with parameters : ""
+
+
+
+10:10:52 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+
+
+10:10:53 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:10:53 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:10:53 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:10:53 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:10:53 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+10:11:28 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:11:28 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:11:28 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:11:35 Load url: "dosingin", Controller: "AuthController#login", with parameters : ""
+
+10:13:05 Load url: "dosignin", Controller: "", with parameters : ""
+
+
+
+10:13:47 Load url: "dosignin", Controller: "AuthController#login", with parameters : ""
+
+10:14:55 Load url: "dosignin", Controller: "AuthController#login", with parameters : ""
+
+10:15:19 Load url: "dosignin", Controller: "AuthController#login", with parameters : "?id=1"
+
+10:17:21 Load url: "dosignin", Controller: "AuthController#login", with parameters : "?id=1"
+
+10:17:22 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:17:22 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:18:41 Load url: "dosignin", Controller: "AuthController#login", with parameters : "?id=1"
+
+10:18:42 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:18:42 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:18:52 Load url: "dosignup", Controller: "AuthController#register", with parameters : ""
+
+10:18:52 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:18:52 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:18:57 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+
+
+10:18:57 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:18:57 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:18:57 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+10:18:57 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:18:57 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:20:12 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+
+
+10:20:12 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:20:12 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:20:12 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+10:20:13 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:20:13 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:20:15 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+
+
+10:20:15 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:20:15 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:20:15 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+10:20:16 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:20:16 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:20:21 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:20:22 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:20:22 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:23:30 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:23:31 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:23:31 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:23:31 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:23:31 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:23:31 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+10:23:31 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:23:31 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:23:35 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:23:35 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:23:35 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:23:35 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:23:35 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:23:35 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+10:23:36 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:23:36 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:24:32 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:24:39 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:24:39 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:24:39 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:24:39 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:24:39 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+10:24:45 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:24:45 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:25:21 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:26:30 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:26:30 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:26:31 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:26:31 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:27:30 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:27:30 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:27:30 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:27:35 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:27:35 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+
+
+10:27:36 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:27:36 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:36:48 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:36:49 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:36:49 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:36:49 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:36:49 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:36:49 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:36:52 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:36:52 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:36:52 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:36:52 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:36:52 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:36:52 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+10:36:52 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:36:52 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:36:59 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+10:37:00 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:37:00 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:37:02 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:37:03 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:37:03 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:37:03 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:37:03 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:37:03 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:37:06 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:37:06 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:37:06 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:37:06 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:37:06 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:37:06 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+10:37:06 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:37:06 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:37:09 Load url: "signin", Controller: "login.view.php", with parameters : ""
+
+10:37:10 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:37:10 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:37:21 Load url: "dosignin", Controller: "AuthController#login", with parameters : ""
+
+10:37:21 SQL query: "SELECT users.* FROM users WHERE (users.login = 'VadimVO')", Result: 1
+
+10:37:21 SQL query: "UPDATE users SET cookie='q`RS~IWO' WHERE login='VadimVO'", Result: 1
+
+10:37:26 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:37:26 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:37:26 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:37:26 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:37:26 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:37:26 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+10:37:27 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:37:27 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:38:30 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:38:30 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:38:30 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:38:30 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:38:30 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:38:30 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+10:38:31 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:38:31 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:38:40 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:38:40 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:38:40 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:38:40 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:38:40 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:38:40 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+10:38:40 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:38:40 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:38:43 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:38:43 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:38:43 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:38:43 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:38:43 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:38:43 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:42:45 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:42:46 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:42:46 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:42:46 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:42:46 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:42:46 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:42:47 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:42:48 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:42:48 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:42:48 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:42:48 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:42:48 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:42:50 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:42:50 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:42:50 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:42:50 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:42:50 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:42:50 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+10:42:50 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:42:50 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:44:10 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+10:44:10 SQL query: "SELECT items.* FROM items WHERE (items.id = '1')", Result: 1
+
+10:44:10 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+10:44:10 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+10:44:10 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+10:44:10 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+10:44:10 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:44:10 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:44:13 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:44:13 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:44:13 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:44:13 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:44:13 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:44:13 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:49:42 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:49:43 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:49:43 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:49:43 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:49:43 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:49:43 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:50:26 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:50:27 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:50:27 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:50:27 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:50:27 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:50:27 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:52:09 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:52:09 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:52:09 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:52:09 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:52:17 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:52:18 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:52:18 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:52:18 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:52:18 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:52:18 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:52:18 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:52:19 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:52:22 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:52:22 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:52:22 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:52:22 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:52:22 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:52:22 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:54:56 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:54:56 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:54:56 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:54:57 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:54:57 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:54:57 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:55:28 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:55:28 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:55:28 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:55:29 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:55:29 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:55:29 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:55:39 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:55:39 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:55:39 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:55:39 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:55:40 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:55:40 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:56:13 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:56:14 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:56:21 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:56:25 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:56:25 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:56:38 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:56:41 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:56:42 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:56:42 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:56:42 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:56:42 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:56:42 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:56:50 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:56:51 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:57:07 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:57:08 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:57:30 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:57:40 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+10:58:06 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:58:06 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:58:06 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:58:07 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+10:58:07 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:58:07 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:58:58 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+10:58:59 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+10:58:59 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+10:59:01 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+10:59:01 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+10:59:01 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+11:01:52 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:01:52 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:01:53 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:01:54 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:01:54 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+11:01:54 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+11:03:39 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:03:40 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:03:40 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+11:03:40 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+11:03:40 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:03:40 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:04:51 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:04:52 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:04:52 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+11:04:52 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+11:04:52 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:04:52 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:05:00 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:05:01 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:05:01 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+11:05:01 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+11:05:01 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:05:01 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:05:20 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:05:21 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:05:21 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+11:05:21 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+11:05:21 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:05:21 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:07:02 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:07:02 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:07:02 SQL query: "SELECT shop_items_home.* FROM shop_items_home WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+11:07:02 SQL query: "SELECT items.* FROM items WHERE (items.id IN (1, 2, 3, 4, 5, 6))", Result: 1
+
+
+
+11:07:02 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:07:02 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:12:31 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:12:32 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+
+
+11:12:32 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:12:32 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:12:45 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:12:46 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:12:46 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:12:47 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:15:21 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:15:22 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+
+
+11:15:22 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:15:22 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:15:29 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:15:30 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:15:30 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:15:31 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:15:46 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:15:47 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:15:47 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:15:48 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:17:39 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:17:39 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:17:39 SQL query: "SELECT shop_items_home.*, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+11:17:39 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:17:39 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:17:57 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:17:57 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:17:57 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:17:57 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:17:57 SQL query: "SELECT shop_items_home.*, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+11:19:17 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:19:17 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:19:17 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:19:17 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:19:43 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:19:43 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:19:43 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+11:19:50 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:19:50 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:19:52 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:19:53 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:19:53 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:19:53 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:19:53 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+11:21:09 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:21:09 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:21:09 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+11:21:09 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:21:09 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:26:30 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:26:47 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:27:23 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:27:23 SQL query: "SELECT items.*, menu_links.*, submenus.* FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id WHERE (items.id = '1')", Result: 1
+
+11:27:23 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+11:27:23 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+11:27:23 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+11:27:23 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+11:27:24 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:27:24 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:27:40 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:27:40 SQL query: "SELECT items.*, menu_links.*, submenus.* FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id WHERE (items.id = '1')", Result: 1
+
+11:29:12 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:29:12 SQL query: "SELECT items.*, menu_links.*, submenus.*, menus.* FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+11:32:44 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:32:44 SQL query: "SELECT items.*, menu_links.page_name, menu_links.page_link, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+11:33:08 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:33:08 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+11:36:06 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:36:06 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+11:36:06 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+11:36:07 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+11:36:07 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+11:36:07 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+11:36:53 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:36:53 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+11:36:53 SQL query: "SELECT menu_links.* FROM menu_links WHERE (menu_links.id = '2')", Result: 1
+
+11:36:53 SQL query: "SELECT submenus.* FROM submenus WHERE (submenus.id = '1')", Result: 1
+
+11:36:53 SQL query: "SELECT menus.* FROM menus WHERE (menus.id = '1')", Result: 1
+
+11:36:53 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+11:36:53 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:36:53 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:37:10 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:37:10 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+11:37:10 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+11:37:11 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:37:11 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:56:19 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+11:56:19 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+11:56:19 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+11:56:19 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:56:19 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:56:21 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:56:22 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:56:22 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:56:22 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:56:22 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+11:58:56 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:58:56 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:58:56 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+11:58:56 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:58:56 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:59:05 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:59:05 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:59:21 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:59:24 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:59:24 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:59:33 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:59:33 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:59:34 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+11:59:34 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+11:59:34 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+11:59:34 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+11:59:43 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+11:59:44 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:00:00 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:00:01 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:00:01 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:00:01 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:00:01 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:00:03 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:00:04 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:00:04 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:00:04 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:00:04 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:00:10 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+
+
+12:01:04 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:01:19 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:03:32 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:03:32 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:03:32 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:03:32 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:03:32 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:03:35 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:03:35 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:03:37 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:03:37 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:03:38 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:03:38 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:03:39 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:03:39 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:03:40 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:03:40 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:06:51 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:06:51 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:06:51 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:06:52 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:06:52 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:06:55 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:06:55 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:06:56 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:06:56 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:06:57 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:06:57 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:06:58 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:06:58 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:06:58 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:06:58 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:06:59 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:06:59 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:07:03 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:07:04 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:07:04 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:07:04 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:07:04 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:07:06 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:07:06 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:07:06 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:07:07 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:07:07 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:07:09 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:07:10 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:07:10 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:07:10 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:07:10 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:07:42 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:07:42 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '2')", Result: 1
+
+
+
+12:07:43 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:07:43 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:07:58 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:07:58 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:07:58 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:07:59 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:07:59 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:09:04 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:09:04 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:09:04 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:09:05 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:09:05 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:09:51 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:09:51 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:09:51 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:09:51 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:09:51 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:09:53 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:09:54 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:09:54 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:09:54 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:09:54 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:09:56 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:09:56 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:09:56 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:09:56 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:09:56 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:10:10 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:10:10 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:10:10 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:10:11 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:10:11 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:10:50 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:10:50 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:10:52 Load url: "rev_page", Controller: "ProductViewController#changePage", with parameters : ""
+
+12:10:52 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+
+
+12:11:21 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:11:21 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:11:21 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:11:22 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:11:22 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:16:30 Load url: "", Controller: "index.view.php", with parameters : ""
+
+12:16:31 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:16:31 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:16:31 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:16:31 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:16:37 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:16:37 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:16:37 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:16:38 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:16:38 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:16:40 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:16:40 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:16:40 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:16:41 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:16:41 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:17:23 Load url: "to_cart_check", Controller: "ToCartCheckController", with parameters : ""
+
+12:17:23 Load url: "undefined", Controller: "", with parameters : ""
+
+12:17:24 Load url: "to_cart_check", Controller: "ToCartCheckController", with parameters : ""
+
+12:17:24 Load url: "undefined", Controller: "", with parameters : ""
+
+12:18:13 Load url: "to_cart_check", Controller: "ToCartCheckController", with parameters : ""
+
+12:18:13 Load url: "undefined", Controller: "", with parameters : ""
+
+12:18:15 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:18:15 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:18:15 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:18:16 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:18:16 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:18:18 Load url: "to_cart_check", Controller: "ToCartCheckController", with parameters : ""
+
+12:18:19 Load url: "undefined", Controller: "", with parameters : ""
+
+12:18:47 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:18:47 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:18:47 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:18:48 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:18:48 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:18:50 Load url: "undefined", Controller: "", with parameters : ""
+
+12:18:53 Load url: "to_cart_check", Controller: "ToCartCheckController", with parameters : ""
+
+12:18:54 SQL query: "SELECT items.* FROM items WHERE (items.id = '1' AND items.color LIKE '%White%' AND items.size LIKE '%Medium%' AND items.count >= 1)", Result: 1
+
+
+
+12:18:55 Load url: "to_cart_check", Controller: "ToCartCheckController", with parameters : ""
+
+12:18:55 SQL query: "SELECT items.* FROM items WHERE (items.id = '1' AND items.color LIKE '%White%' AND items.size LIKE '%Medium%' AND items.count >= 1)", Result: 1
+
+
+
+12:18:56 Load url: "to_cart_check", Controller: "ToCartCheckController", with parameters : ""
+
+12:18:56 SQL query: "SELECT items.* FROM items WHERE (items.id = '1' AND items.color LIKE '%White%' AND items.size LIKE '%Medium%' AND items.count >= 1)", Result: 1
+
+
+
+12:19:09 Load url: "to_cart_check", Controller: "ToCartCheckController", with parameters : ""
+
+12:19:09 SQL query: "SELECT items.* FROM items WHERE (items.id = '1' AND items.color LIKE '%White%' AND items.size LIKE '%Medium%' AND items.count >= 1)", Result: 1
+
+
+
+12:19:10 Load url: "to_cart_check", Controller: "ToCartCheckController", with parameters : ""
+
+12:19:10 SQL query: "SELECT items.* FROM items WHERE (items.id = '1' AND items.color LIKE '%White%' AND items.size LIKE '%Medium%' AND items.count >= 1)", Result: 1
+
+
+
+12:19:15 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:19:15 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:19:15 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:19:16 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:19:16 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:21:21 Load url: "logout", Controller: "AuthController#logout", with parameters : ""
+
+
+
+12:21:22 Load url: "product_view", Controller: "ProductViewController", with parameters : "?id=1"
+
+12:21:22 SQL query: "SELECT items.*, menu_links.page_name, submenus.submenu_name, menus.menu_name FROM items INNER JOIN menu_links ON menu_links.id=items.category_id INNER JOIN submenus ON submenus.id=menu_links.menu_id INNER JOIN menus ON menus.id=submenus.menu_id WHERE (items.id = '1')", Result: 1
+
+12:21:22 SQL query: "SELECT reviews.*, users.login FROM reviews INNER JOIN users ON reviews.user_id=users.id WHERE (reviews.item = '1')", Result: 1
+
+12:21:22 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:21:22 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
+12:21:56 Load url: "home", Controller: "index.view.php", with parameters : ""
+
+12:21:56 Load url: "load_shop_home_items", Controller: "LoadItemsController", with parameters : ""
+
+12:21:56 SQL query: "SELECT shop_items_home.item_id, items.cost_gbp, items.sale_gbp, items.description, items.name, items.id, items.image_url FROM shop_items_home INNER JOIN items ON items.id=shop_items_home.item_id WHERE (shop_items_home.slideNumber = '1')", Result: 1
+
+
+
+12:21:57 Load url: "load_menu", Controller: "HeaderController#loadMenu", with parameters : ""
+
+12:21:57 SQL query: "SELECT versions.* FROM versions", Result: 1
+
+
+
