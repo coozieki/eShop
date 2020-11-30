@@ -36,51 +36,6 @@ class Settings extends Singletone {
                     ]
                 ]
             ];
-            public $routes1 = array
-            (
-                // Главная страница сайта (http://localhost/)
-                array(
-                    // паттерн в формате Perl-совместимого реулярного выражения
-                    'pattern' => '~^/$~',
-                    // Имя класса обработчика 
-                    'class' => 'RouteController',
-                    // Имя метода класса обработчика
-                    'method' => 'index'
-                ),
-            
-                // Страница регистрации пользователя (http://localhost/registration.xhtml)
-                array(
-                    'pattern' => '~^/registration\.xhtml$~',
-                    'class' => 'User',
-                    'method' => 'registration',
-                ),
-            
-                // Досье пользователя (http://localhost/userinfo/12345.xhtml)
-                array(
-                    'pattern' => '~^/userinfo/([0-9]+)\.xhtml$~',
-                    'class' => 'User',
-                    'method' => 'infoInfo',
-                    // В aliases перечисляются имена переменных, которые должны быть в дальнейшем созданы 
-                    // и заполнены значениями, взятыми на основании разбора URL адреса. 
-                    // В данном случае в переменную user_id должен будет записаться числовой 
-                    // идентификатор пользователя - 12345
-                    'aliases' => array('user_id'),
-                ),
-            
-                // Форум (http://localhost/forum/web-development/php/12345.xhtml)
-                array(
-                    'pattern' => '~^/forum(/[a-z0-9_/\-]+/)([0-9]+)\.xhtml$~',
-                    'class' => 'Forum',
-                    'method' => 'viewTopick',
-                    // Будут созданы переменные:
-                    // forum_url = '/web-development/php/'
-                    // topic_id = 12345
-                    'aliases' => array('forum_url', 'topic_id'),
-                ),
-            
-                // и т.д.
-            );
-
             
     static function getInstance() {
         if (!self::$instance) {
